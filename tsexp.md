@@ -104,3 +104,10 @@ toyotacar.drive()
 toyotacar.honk()
 toyotacar.design()
 ```
+
+### Arrow Function in TS
+```
+const add = (a: number, b: number): number => {
+    return a + b
+}
+```
